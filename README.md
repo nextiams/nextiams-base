@@ -1,0 +1,1 @@
+# gin-django-base
